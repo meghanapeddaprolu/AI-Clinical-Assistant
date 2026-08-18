@@ -1,6 +1,6 @@
 # AI-Clinical-Assistant
 
-# AI Clinical Assistant
+
 
 An AI-powered clinical assistant that summarizes raw patient notes into concise clinical summaries using LLM fine-tuning.
 The project explores **Full Fine-Tuning, LoRA, QLoRA, and DoRA** for healthcare applications.
